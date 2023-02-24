@@ -9,6 +9,7 @@ My expertise lies in object-oriented programming and design patterns, and I am w
 My track record in the industry has been nothing short of impressive, and I have a proven ability to work collaboratively with cross-functional teams to deliver software solutions that meet and exceed customer expectations. I am always eager to learn and grow my skill set, and I am excited about the prospect of taking on new challenges and contributing to cutting-edge projects.
 
 In summary, I am a skilled and driven Software Engineer who is committed to creating top-quality software solutions that solve complex problems and exceed customer expectations.
+<hr>
 
 ### 🧰 Languages and Tools
 
@@ -29,10 +30,10 @@ In summary, I am a skilled and driven Software Engineer who is committed to crea
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<br /><hr>
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Gersi Muca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gersimuca&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=gersimuca&theme=gruvbox&border_radius=4.5) -->
