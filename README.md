@@ -1,6 +1,6 @@
 # ⭐ Gersi Muca 👋
 
-** `Software Engineer && Software Developer` **
+## ** `Software Engineer` **
 
 I'm a passionate Software Engineer with expertise in developing scalable web and desktop applications using cutting-edge technologies. With a keen eye for detail, I strive to build software solutions that are easily maintainable, reliable and efficient.
 
