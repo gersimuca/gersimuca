@@ -1,4 +1,4 @@
-### Gersi Muca 👋
+# ⭐ Gersi Muca 👋
 
 ** `Software Engineer && Software Developer` **
 
