@@ -1,12 +1,28 @@
 # ⭐ Gersi Muca 👋
 
-I'm a passionate Software Engineer with expertise in developing scalable web and desktop applications using cutting-edge technologies. With a keen eye for detail, I strive to build software solutions that are easily maintainable, reliable and efficient.
+👨‍💻 I'm a Software Engineer with a strong track record in building scalable web and desktop applications. I excel in technologies like AWS, Kubernetes, Docker, Angular, and Spring. My goal is to create software that's easy to maintain, reliable, and efficient, always exceeding client expectations.
 
-My expertise lies in object-oriented programming and design patterns, and I am well-versed in a wide range including JAVA, JDBC, Hibernate, Spring Framework, Software Design Patterns, Maven, Unit Testing, JUnit, Test Driven Development, Mockito, SQL, Web API, JSON, REST APIs, SASS, JavaScript, Typescript, Angular, Docker, Debugging, XML, YAML, Apache Commons, GIT, BASH, Jenkins, Scrum, Agile, Waterfall and other related technologies.
+🎓 Holding a Master's Degree in Information Technology Management (M.P.S. IT) from the University Barleti, I have honed my knowledge in computer science, software engineering, and information technology.
 
-My track record in the industry has been nothing short of impressive, and I have a proven ability to work collaboratively with cross-functional teams to deliver software solutions that meet and exceed customer expectations. I am always eager to learn and grow my skill set, and I am excited about the prospect of taking on new challenges and contributing to cutting-edge projects.
+🔷 Programming Languages: I exhibit proficiency in C#, .NET, Java, Hibernate, Micronaut, Cucumber, and Spring, alongside Python and Django for versatile application development.
 
-In summary, I am a skilled and driven Software Engineer who is committed to creating top-quality software solutions that solve complex problems and exceed customer expectations.
+🌐 Web Development: I master the craft of web development, adeptly using Angular, React, and technologies such as PM2, Node, Next, and RxJS to create responsive and feature-rich web applications.
+
+📊 Database Management: My expertise extends to database management, encompassing Postgres, MongoDB, SQLite, and SQL Server.
+
+☁️ Cloud Computing: I am well-versed in Amazon Web Services, cloud computing, and employ infrastructure as code (IaC) tools like Terraform to optimize scalability and efficiency.
+
+🐋 DevOps and CI/CD: Proficient in DevOps practices, I excel in Git, Docker, Jenkins, Kubernetes, and the seamless implementation of continuous integration and continuous deployment (CI/CD) pipelines.
+
+🖥️ Architectural Expertise: I bring versatility to software architecture, with experience spanning monolithic and microservices, serverless, peer-to-peer, layered, microkernel, CQRS, and event sourcing.
+
+🧩 Design Patterns: I incorporate advanced design patterns, including MVC (Model-View-Controller), MVP (Model-View-Presenter), and MVVM (Model-View-ViewModel) for elegant solutions.
+
+💼 Specializations: I am highly specialized in distributed systems, and back-end development. I possess a deep understanding of front-end and back-end technologies.
+
+📚 My work is underpinned by a comprehensive knowledge of object-oriented programming (OOP) and N-tier architecture, enabling me to engineer comprehensive and scalable software solutions.
+
+🚀 Always eager to expand my expertise and tackle fresh challenges, I am enthusiastic about contributing to cutting-edge projects. My commitment to learning and professional growth remains unwavering, making me a valuable asset in the ever-evolving landscape of software development.
 <hr>
 
 ### 🧰 Languages and Tools
