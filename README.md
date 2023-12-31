@@ -1,4 +1,4 @@
-# ⭐ Gersi Muca 👋
+# ⭐ Gersi Muça 👋
 
 👨‍💻 I'm a Software Engineer with a strong track record in building scalable web and desktop applications. I excel in technologies like AWS, Kubernetes, Docker, Angular, and Spring. My goal is to create software that's easy to maintain, reliable, and efficient, always exceeding client expectations.
 
