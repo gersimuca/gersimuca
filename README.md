@@ -2,7 +2,7 @@
 
 👨‍💻 I'm a Software Engineer with a strong track record in building scalable web and desktop applications. I excel in technologies like AWS, Kubernetes, Docker, Angular, and Spring. My goal is to create software that's easy to maintain, reliable, and efficient, always exceeding client expectations.
 
-<hr>
+---
 
 ### 🧰 Languages and Tools
 
@@ -35,10 +35,12 @@
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />  
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-<hr> 
 <br>
+<br>
+
+---
 
 ### 📊 Stats
 
