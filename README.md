@@ -91,9 +91,10 @@
 ### 📊 Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&show_icons=true&theme=gruvbox" alt="Gersi Muca's GitHub stats" style="height: 200px; margin-right: 10px; object-fit: cover;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&size_weight=0.0005&count_weight=0.3&layout=compact&theme=gruvbox" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&show_icons=true&theme=gruvbox" alt="Gersi Muca's GitHub stats" style="height: 100px; margin-right: 10px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&size_weight=0.0005&count_weight=0.3&layout=compact&theme=gruvbox" alt="Top Languages" style="height: 100px; object-fit: cover;">
 </div>
+
 
 
 
