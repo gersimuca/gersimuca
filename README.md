@@ -1,7 +1,6 @@
 # 〽️ Gersi Muça 👋
 
-👨‍💻 Seasoned Software Engineer with expertise in scalable web and desktop solutions. 
-Proficient in AWS, Kubernetes, Docker, and Spring, delivering robust, maintainable software.
+👨‍💻 Seasoned Software Engineer with expertise in scalable web and desktop solutions. Proficient in AWS, Kubernetes, Docker, and Spring, delivering robust, maintainable software.
 
 ---
 
