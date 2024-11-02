@@ -41,7 +41,7 @@
 
 ---
 
-### 📊 Stats
+# 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&theme=dark" alt="Gersi Muca's GitHub stats" style="height: 185px; margin-right: 30px; object-fit: cover;">
