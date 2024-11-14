@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats:
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&theme=dark" alt="Gersi Muca's GitHub stats" style="height: 185px; margin-right: 30px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&theme=dark&include_all_commits=true&count_private=true" alt="Gersi Muca's GitHub stats" style="height: 185px; margin-right: 30px; object-fit: cover;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&size_weight=0.0005&count_weight=0.3&layout=compact&theme=dark" alt="Top Languages" style="height: 185px; object-fit: cover;">
 </div>
 
