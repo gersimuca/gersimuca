@@ -1,6 +1,6 @@
 # 〽️ Gersi Muça 👋
 
-👨‍💻 Hey there! I'm a Seasoned Software Engineer who loves building scalable web and desktop solutions. I’m comfortable creating software that's not just powerful but also easy to maintain.
+👨‍💻 Hey there! I'm a Seasoned Software Engineer who loves building scalable software solutions. I’m comfortable creating software that's not just powerful but also easy to maintain.
 
 💡 I’m all about making the developer experience smoother, boosting performance, and learning the ins and outs of memory management. Ultimately, I just want to build awesome software that people love to use!
 
