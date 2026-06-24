@@ -11,13 +11,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto;">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&hide=html,css"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api?username=gersimuca&theme=dark&include_all_commits=true&count_private=true"
+    alt="GitHub stats"
     height="185"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&hide=html,css"
     alt="Top Languages"
     height="185"
   />
