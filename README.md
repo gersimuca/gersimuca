@@ -9,12 +9,18 @@
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=gersimuca&theme=dark&include_all_commits=true&count_private=true" 
-       alt="GitHub stats" style="height: 185px; margin-right: 30px;" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&hide=html,css"
+    alt="Top Languages"
+    height="185"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&count_private=true" 
-       alt="Top Languages" style="height: 185px;" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8"
+    alt="Top Languages"
+    height="185"
+  />
 </div>
 
 
