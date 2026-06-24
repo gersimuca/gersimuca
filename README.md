@@ -17,7 +17,7 @@
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&hide=html,css"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersimuca&layout=compact&theme=dark&langs_count=8&hide=html,css,java"
     alt="Top Languages"
     height="185"
   />
